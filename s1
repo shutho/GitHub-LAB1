@@ -2,3 +2,14 @@ Test file for LAB use.
 Something significant.
 
 Hello world. or Similar.
+
+ms_IP: 10.0.1.111
+ans:
+red: 
+  id: 10
+blue:
+  id: 20
+rts:
+: [ 10 ]
+: [ 20 ]
+: [ 10, 20]
